@@ -1,6 +1,18 @@
 # UI-UX-Projects
 My projects in the field of UI-UX (User Interface - User Experience)
 
+****EDIT 22/04/2016****
+
+Hi everyone ! 
+
+I uploaded the first animation today, as well as the sketch files that go with it !
+
+Please take a look, it is called "Opening an App".
+
+****END****
+
+****PRESENTATION****
+
 Hi everyone ! 
 
 My name is Kevin Eugene, and I am 22 years old. I study Computer Science and Multimedia at Telecom ParisTech. My passions are design and storytelling.
@@ -12,3 +24,5 @@ Lately, I have been working on trying to rethink the user experience when using 
 On my GitHub Profile, you will find the prototypes I have been designing in my free time (for now, they are only .pdf files, but I am working on it). Feel free to ask any questions, I would love to debate with you about any of the ideas that are highlighted in the given files. :)
 
 As you may notice, the prototypes are not complete yet. I will try to update and finish them as soon as possible.
+
+****END****
