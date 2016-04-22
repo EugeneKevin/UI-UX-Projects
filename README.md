@@ -9,6 +9,8 @@ I uploaded the first animation today, as well as the sketch files that go with i
 
 Please take a look, it is called "Opening an App".
 
+Yosemite Icons by MrGoodGriefing. Downloaded on DeviantArt.
+
 ****END****
 
 ****PRESENTATION****
