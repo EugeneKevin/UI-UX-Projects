@@ -1,6 +1,10 @@
 # UI-UX-Projects
 My projects in the field of UI-UX (User Interface - User Experience)
 
+****EDIT 23/04/2016****
+
+"Opening More Than 2 Apps" shows how the concept handles multiple windows. Look at the description of the commit for further details, as always.
+
 ****EDIT 22/04/2016****
 
 Hi everyone ! 
